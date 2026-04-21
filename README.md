@@ -1,4 +1,4 @@
-# Facial AU + LLM Descriptions for HEXACO Trait Prediction
+# LLM-based Multimodal Personality Recognition via Facial Action Unit-Text Semantic Fusion
 
 This repository contains a **reproducible end-to-end pipeline** that predicts HEXACO personality trait scores (q3–q6) from video-based interview responses by combining:
 
