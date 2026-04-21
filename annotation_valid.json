@@ -1,0 +1,642 @@
+{
+  "586935b7e16d530001b34787": {
+    "gender": 1,
+    "age": 35,
+    "education": 4,
+    "work_experience": 18,
+    "Honesty-Humility": 3.275,
+    "Extraversion": 3.1875,
+    "Agreeableness": 3.36875,
+    "Conscientiousness": 3.8375
+  },
+  "63b6c18f4f13282703357493": {
+    "gender": 2,
+    "age": 41,
+    "education": 5,
+    "work_experience": 21,
+    "Honesty-Humility": 3.475,
+    "Extraversion": 2.44375,
+    "Agreeableness": 3.875,
+    "Conscientiousness": 3.375
+  },
+  "5b214ff965753400017af117": {
+    "gender": 1,
+    "age": 24,
+    "education": 4,
+    "work_experience": 3,
+    "Honesty-Humility": 4.025,
+    "Extraversion": 2.24375,
+    "Agreeableness": 3.63125,
+    "Conscientiousness": 2.9875
+  },
+  "5dec18ea1aaabf30d92ad722": {
+    "gender": 2,
+    "age": 25,
+    "education": 3,
+    "work_experience": 6,
+    "Honesty-Humility": 3.7375,
+    "Extraversion": 3.2125,
+    "Agreeableness": 3.7375,
+    "Conscientiousness": 3.2375
+  },
+  "60bfd72cbf383d740b0d9b00": {
+    "gender": 2,
+    "age": 23,
+    "education": 3,
+    "work_experience": 6,
+    "Honesty-Humility": 3.33125,
+    "Extraversion": 2.5625,
+    "Agreeableness": 3.78125,
+    "Conscientiousness": 3.325
+  },
+  "5e531b2205acdb33c0f5f24c": {
+    "gender": 1,
+    "age": 45,
+    "education": 3,
+    "work_experience": 21,
+    "Honesty-Humility": 3.6875,
+    "Extraversion": 4.05625,
+    "Agreeableness": 4.10625,
+    "Conscientiousness": 2.5375
+  },
+  "62dc761564191bc28a87e7c7": {
+    "gender": 1,
+    "age": 31,
+    "education": 3,
+    "work_experience": 2,
+    "Honesty-Humility": 3.3125,
+    "Extraversion": 2.45625,
+    "Agreeableness": 4.23125,
+    "Conscientiousness": 3.21875
+  },
+  "55b3120cfdf99b6ef6263a71": {
+    "gender": 2,
+    "age": 54,
+    "education": 4,
+    "work_experience": 39,
+    "Honesty-Humility": 3.2875,
+    "Extraversion": 3.05,
+    "Agreeableness": 2.3125,
+    "Conscientiousness": 3.0375
+  },
+  "615b1bbb04fb28394b341ee9": {
+    "gender": 1,
+    "age": 65,
+    "education": 3,
+    "work_experience": 49,
+    "Honesty-Humility": 2.8375,
+    "Extraversion": 3.03125,
+    "Agreeableness": 3.075,
+    "Conscientiousness": 2.89375
+  },
+  "6314c1e76c3f71e2127f1976": {
+    "gender": 1,
+    "age": 42,
+    "education": 2,
+    "work_experience": 15,
+    "Honesty-Humility": 2.3625,
+    "Extraversion": 2.93125,
+    "Agreeableness": 3.94375,
+    "Conscientiousness": 2.7125
+  },
+  "62c63362e7342ad8be294866": {
+    "gender": 1,
+    "age": 42,
+    "education": 3,
+    "work_experience": 25,
+    "Honesty-Humility": 2.6125,
+    "Extraversion": 2.175,
+    "Agreeableness": 2.55,
+    "Conscientiousness": 3.875
+  },
+  "636330b7f97a8198974a367f": {
+    "gender": 2,
+    "age": 32,
+    "education": 6,
+    "work_experience": 4,
+    "Honesty-Humility": 3.55,
+    "Extraversion": 3.3,
+    "Agreeableness": 3.40625,
+    "Conscientiousness": 2.975
+  },
+  "600db8fbc1442757df86e700": {
+    "gender": 2,
+    "age": 22,
+    "education": 4,
+    "work_experience": 6,
+    "Honesty-Humility": 3.825,
+    "Extraversion": 2.991666667,
+    "Agreeableness": 3.941666667,
+    "Conscientiousness": 3.116666667
+  },
+  "6282486284f992485dcdf4ea": {
+    "gender": 2,
+    "age": 30,
+    "education": 4,
+    "work_experience": 13,
+    "Honesty-Humility": 3.2875,
+    "Extraversion": 2.5375,
+    "Agreeableness": 2.99375,
+    "Conscientiousness": 3.00625
+  },
+  "63b70545b179c880f765bc4c": {
+    "gender": 2,
+    "age": 50,
+    "education": 4,
+    "work_experience": 43,
+    "Honesty-Humility": 2.6375,
+    "Extraversion": 2.81875,
+    "Agreeableness": 2.8125,
+    "Conscientiousness": 4.20625
+  },
+  "5f989fa02b5a611b2df1a305": {
+    "gender": 2,
+    "age": 47,
+    "education": 5,
+    "work_experience": 27,
+    "Honesty-Humility": 3.61875,
+    "Extraversion": 4.275,
+    "Agreeableness": 3.3875,
+    "Conscientiousness": 2.675
+  },
+  "5c095c8a217d6000011193b8": {
+    "gender": 2,
+    "age": 35,
+    "education": 3,
+    "work_experience": 19,
+    "Honesty-Humility": 3.2375,
+    "Extraversion": 3.09375,
+    "Agreeableness": 3.83125,
+    "Conscientiousness": 3.3625
+  },
+  "5c0a22affe40eb00016262b6": {
+    "gender": 2,
+    "age": 28,
+    "education": 4,
+    "work_experience": 11,
+    "Honesty-Humility": 3.475,
+    "Extraversion": 1.98125,
+    "Agreeableness": 3.5375,
+    "Conscientiousness": 3.70625
+  },
+  "614e35b2138b395a5410d87a": {
+    "gender": 1,
+    "age": 42,
+    "education": 3,
+    "work_experience": 23,
+    "Honesty-Humility": 2.775,
+    "Extraversion": 2.55625,
+    "Agreeableness": 2.30625,
+    "Conscientiousness": 2.8125
+  },
+  "5e73fc27257569377493feaa": {
+    "gender": 1,
+    "age": 25,
+    "education": 5,
+    "work_experience": 10,
+    "Honesty-Humility": 3.1625,
+    "Extraversion": 2.325,
+    "Agreeableness": 3.3,
+    "Conscientiousness": 2.90625
+  },
+  "63d3fd6116541b5031bd4a4d": {
+    "gender": 1,
+    "age": 25,
+    "education": 3,
+    "work_experience": 5,
+    "Honesty-Humility": 2.36875,
+    "Extraversion": 2.5125,
+    "Agreeableness": 3.35625,
+    "Conscientiousness": 3.3625
+  },
+  "6388fabfdce4b259e37e9495": {
+    "gender": 2,
+    "age": 65,
+    "education": 3,
+    "work_experience": 50,
+    "Honesty-Humility": 3.48125,
+    "Extraversion": 3.425,
+    "Agreeableness": 2.09375,
+    "Conscientiousness": 4.2375
+  },
+  "5ea0f8b65669f80008176bec": {
+    "gender": 1,
+    "age": 43,
+    "education": 3,
+    "work_experience": 28,
+    "Honesty-Humility": 3.4875,
+    "Extraversion": 3.86875,
+    "Agreeableness": 3.74375,
+    "Conscientiousness": 2.94375
+  },
+  "63bed6e176fba857a47fbaff": {
+    "gender": 1,
+    "age": 33,
+    "education": 3,
+    "work_experience": 14,
+    "Honesty-Humility": 3.75625,
+    "Extraversion": 2.2,
+    "Agreeableness": 3.24375,
+    "Conscientiousness": 2.94375
+  },
+  "5d4a03a7278a80001a4fa9df": {
+    "gender": 1,
+    "age": 42,
+    "education": 3,
+    "work_experience": 20,
+    "Honesty-Humility": 3.375,
+    "Extraversion": 2.8,
+    "Agreeableness": 3.575,
+    "Conscientiousness": 3.19375
+  },
+  "633599d83df1823b08ae2e61": {
+    "gender": 1,
+    "age": 31,
+    "education": 2,
+    "work_experience": 12,
+    "Honesty-Humility": 3.0125,
+    "Extraversion": 3.0625,
+    "Agreeableness": 3.125,
+    "Conscientiousness": 3.0125
+  },
+  "5c43517c8fefb60001c447fe": {
+    "gender": 3,
+    "age": 39,
+    "education": 5,
+    "work_experience": 20,
+    "Honesty-Humility": 3.925,
+    "Extraversion": 2.3,
+    "Agreeableness": 3.5625,
+    "Conscientiousness": 3.45
+  },
+  "6266a95d927943d0147dc188": {
+    "gender": 1,
+    "age": 56,
+    "education": 4,
+    "work_experience": 42,
+    "Honesty-Humility": 3.75625,
+    "Extraversion": 3.45625,
+    "Agreeableness": 3.075,
+    "Conscientiousness": 3.59375
+  },
+  "610ae6d0823d797a7fd61f39": {
+    "gender": 2,
+    "age": 21,
+    "education": 3,
+    "work_experience": 7,
+    "Honesty-Humility": 3.80625,
+    "Extraversion": 2.83125,
+    "Agreeableness": 3.5125,
+    "Conscientiousness": 3.65625
+  },
+  "5fc3d41149c0c8728f07b95b": {
+    "gender": 1,
+    "age": 32,
+    "education": 2,
+    "work_experience": 13,
+    "Honesty-Humility": 3.008333333,
+    "Extraversion": 2.341666667,
+    "Agreeableness": 3.25,
+    "Conscientiousness": 2.9
+  },
+  "62c8c2d71e87b86722f0215b": {
+    "gender": 1,
+    "age": 35,
+    "education": 6,
+    "work_experience": 7,
+    "Honesty-Humility": 3.925,
+    "Extraversion": 3.3625,
+    "Agreeableness": 3.93125,
+    "Conscientiousness": 4.22375
+  },
+  "611eb5db46ee495d60b16aae": {
+    "gender": 3,
+    "age": 47,
+    "education": 4,
+    "work_experience": 22,
+    "Honesty-Humility": 3.5,
+    "Extraversion": 3.49375,
+    "Agreeableness": 3.56875,
+    "Conscientiousness": 2.9125
+  },
+  "60c10acc73ff7d406c3d940d": {
+    "gender": 1,
+    "age": 40,
+    "education": 5,
+    "work_experience": 18,
+    "Honesty-Humility": 3.44375,
+    "Extraversion": 3.11875,
+    "Agreeableness": 3.5625,
+    "Conscientiousness": 3.60625
+  },
+  "629fa67324464cea314c50fc": {
+    "gender": 1,
+    "age": 43,
+    "education": 4,
+    "work_experience": 22,
+    "Honesty-Humility": 3.15625,
+    "Extraversion": 2.93125,
+    "Agreeableness": 3.30625,
+    "Conscientiousness": 3.28125
+  },
+  "5e92ce0be2bcb3600ed93730": {
+    "gender": 1,
+    "age": 33,
+    "education": 3,
+    "work_experience": 20,
+    "Honesty-Humility": 3.3125,
+    "Extraversion": 2.65625,
+    "Agreeableness": 3.0625,
+    "Conscientiousness": 3.05
+  },
+  "606a3cf263a18869ac8ee0ed": {
+    "gender": 2,
+    "age": 57,
+    "education": 4,
+    "work_experience": 33,
+    "Honesty-Humility": 3.61875,
+    "Extraversion": 3.725,
+    "Agreeableness": 2.975,
+    "Conscientiousness": 3.2375
+  },
+  "60fc9ce95a59b3400b38e2a7": {
+    "gender": 2,
+    "age": 23,
+    "education": 2,
+    "work_experience": 2,
+    "Honesty-Humility": 3.2125,
+    "Extraversion": 2.975,
+    "Agreeableness": 3.375,
+    "Conscientiousness": 3.5875
+  },
+  "5f47f0dd26b052111e2d323b": {
+    "gender": 3,
+    "age": 25,
+    "education": 4,
+    "work_experience": 3,
+    "Honesty-Humility": 3.525,
+    "Extraversion": 2.21875,
+    "Agreeableness": 3.50625,
+    "Conscientiousness": 2.49375
+  },
+  "6117ae23774b3ff0f9e08052": {
+    "gender": 1,
+    "age": 37,
+    "education": 4,
+    "work_experience": 22,
+    "Honesty-Humility": 3.29375,
+    "Extraversion": 3.63125,
+    "Agreeableness": 3.2625,
+    "Conscientiousness": 2.84375
+  },
+  "637aa193015973b5f2ee4dd7": {
+    "gender": 2,
+    "age": 60,
+    "education": 4,
+    "work_experience": 40,
+    "Honesty-Humility": 3.15,
+    "Extraversion": 2.55,
+    "Agreeableness": 3.81875,
+    "Conscientiousness": 3.3
+  },
+  "608f377a1d065fa7240de113": {
+    "gender": 1,
+    "age": 27,
+    "education": 4,
+    "work_experience": 6,
+    "Honesty-Humility": 3.24375,
+    "Extraversion": 3.03125,
+    "Agreeableness": 3.63125,
+    "Conscientiousness": 3.55
+  },
+  "5f63d462fb4c4713b69d4bb7": {
+    "gender": 1,
+    "age": 26,
+    "education": 2,
+    "work_experience": 9,
+    "Honesty-Humility": 3.5,
+    "Extraversion": 3.1,
+    "Agreeableness": 3.925,
+    "Conscientiousness": 3.425
+  },
+  "60f1ddf2ba77ba7c771c936c": {
+    "gender": 2,
+    "age": 33,
+    "education": 5,
+    "work_experience": 11,
+    "Honesty-Humility": 3.85,
+    "Extraversion": 3.575,
+    "Agreeableness": 3.91875,
+    "Conscientiousness": 3.3875
+  },
+  "5e27727328b7b698b037ee6c": {
+    "gender": 1,
+    "age": 37,
+    "education": 4,
+    "work_experience": 13,
+    "Honesty-Humility": 2.61875,
+    "Extraversion": 2.54375,
+    "Agreeableness": 2.61875,
+    "Conscientiousness": 3.36875
+  },
+  "60fd6c8ebd0c3ae3dd0eb2ac": {
+    "gender": 2,
+    "age": 37,
+    "education": 5,
+    "work_experience": 18,
+    "Honesty-Humility": 2.91875,
+    "Extraversion": 3.40625,
+    "Agreeableness": 3.36875,
+    "Conscientiousness": 3.6375
+  },
+  "6266a87a7adacd7a91cabc93": {
+    "gender": 2,
+    "age": 50,
+    "education": 4,
+    "work_experience": 33,
+    "Honesty-Humility": 3.0875,
+    "Extraversion": 2.68125,
+    "Agreeableness": 3.46875,
+    "Conscientiousness": 3.59375
+  },
+  "63370d52f83532277ab354a4": {
+    "gender": 1,
+    "age": 36,
+    "education": 4,
+    "work_experience": 14,
+    "Honesty-Humility": 2.14375,
+    "Extraversion": 3.75,
+    "Agreeableness": 2.39375,
+    "Conscientiousness": 3.39375
+  },
+  "594ad91fa6fb8200018f720c": {
+    "gender": 2,
+    "age": 24,
+    "education": 2,
+    "work_experience": 4,
+    "Honesty-Humility": 3.20625,
+    "Extraversion": 2.88125,
+    "Agreeableness": 3.5125,
+    "Conscientiousness": 3.68125
+  },
+  "631852710b123742dcc28cb8": {
+    "gender": 2,
+    "age": 48,
+    "education": 3,
+    "work_experience": 33,
+    "Honesty-Humility": 3.2625,
+    "Extraversion": 3.6,
+    "Agreeableness": 3.38125,
+    "Conscientiousness": 3.975
+  },
+  "5ecdcc5497268a15bfa8c04e": {
+    "gender": 1,
+    "age": 22,
+    "education": 2,
+    "work_experience": 2,
+    "Honesty-Humility": 3.13125,
+    "Extraversion": 2.11875,
+    "Agreeableness": 3.8375,
+    "Conscientiousness": 2.4875
+  },
+  "628e987eb6b92cdc713ee965": {
+    "gender": 1,
+    "age": 22,
+    "education": 3,
+    "work_experience": 4,
+    "Honesty-Humility": 2.93125,
+    "Extraversion": 2.2875,
+    "Agreeableness": 3.31875,
+    "Conscientiousness": 3.35625
+  },
+  "63615326bf65aea8fab33ef2": {
+    "gender": 1,
+    "age": 46,
+    "education": 3,
+    "work_experience": 25,
+    "Honesty-Humility": 3.98125,
+    "Extraversion": 2.93125,
+    "Agreeableness": 2.59375,
+    "Conscientiousness": 3.90625
+  },
+  "611622ddd8be1ac51298cb89": {
+    "gender": 1,
+    "age": 19,
+    "education": 3,
+    "work_experience": 2,
+    "Honesty-Humility": 2.45,
+    "Extraversion": 3.2125,
+    "Agreeableness": 2.85625,
+    "Conscientiousness": 3.6
+  },
+  "5c6d5477e8833000015244ad": {
+    "gender": 1,
+    "age": 43,
+    "education": 3,
+    "work_experience": 31,
+    "Honesty-Humility": 3.41875,
+    "Extraversion": 2.2,
+    "Agreeableness": 3.04375,
+    "Conscientiousness": 3.00625
+  },
+  "5cc1e9161758c700138de977": {
+    "gender": 2,
+    "age": 23,
+    "education": 3,
+    "work_experience": 7,
+    "Honesty-Humility": 3.6125,
+    "Extraversion": 3.6625,
+    "Agreeableness": 3.6875,
+    "Conscientiousness": 3.1125
+  },
+  "6398f1427f8e049a84ab3522": {
+    "gender": 2,
+    "age": 50,
+    "education": 4,
+    "work_experience": 34,
+    "Honesty-Humility": 3.875,
+    "Extraversion": 2.89375,
+    "Agreeableness": 3.65625,
+    "Conscientiousness": 2.76875
+  },
+  "5f8275c36d72281a1c8a2927": {
+    "gender": 2,
+    "age": 45,
+    "education": 4,
+    "work_experience": 26,
+    "Honesty-Humility": 3.96875,
+    "Extraversion": 3.525,
+    "Agreeableness": 3.60625,
+    "Conscientiousness": 4.2625
+  },
+  "6337b9604370dd57643b81a0": {
+    "gender": 1,
+    "age": 31,
+    "education": 4,
+    "work_experience": 15,
+    "Honesty-Humility": 3.0875,
+    "Extraversion": 3.09375,
+    "Agreeableness": 3.73125,
+    "Conscientiousness": 3.35
+  },
+  "615374d9fd9b41728babd974": {
+    "gender": 2,
+    "age": 58,
+    "education": 5,
+    "work_experience": 36,
+    "Honesty-Humility": 2.73125,
+    "Extraversion": 3.2,
+    "Agreeableness": 2.95,
+    "Conscientiousness": 3.2875
+  },
+  "62f1b4c7dfbde02b952a98c2": {
+    "gender": 1,
+    "age": 22,
+    "education": 3,
+    "work_experience": 5,
+    "Honesty-Humility": 3.6375,
+    "Extraversion": 3.55,
+    "Agreeableness": 2.875,
+    "Conscientiousness": 4.0375
+  },
+  "5f1c72e25a26d503c77bfdc9": {
+    "gender": 1,
+    "age": 41,
+    "education": 4,
+    "work_experience": 18,
+    "Honesty-Humility": 3.31875,
+    "Extraversion": 3.625,
+    "Agreeableness": 4.075,
+    "Conscientiousness": 3.65625
+  },
+  "607226ef2df05dd596a390f2": {
+    "gender": 2,
+    "age": 42,
+    "education": 3,
+    "work_experience": 19,
+    "Honesty-Humility": 3.95625,
+    "Extraversion": 3.8,
+    "Agreeableness": 3.65,
+    "Conscientiousness": 3.89375
+  },
+  "6296cc20de63a753209d7d02": {
+    "gender": 2,
+    "age": 33,
+    "education": 4,
+    "work_experience": 12,
+    "Honesty-Humility": 3.35625,
+    "Extraversion": 3.1375,
+    "Agreeableness": 3.2375,
+    "Conscientiousness": 3.3
+  },
+  "62825aef9d9d5544867a6fc0": {
+    "gender": 2,
+    "age": 34,
+    "education": 4,
+    "work_experience": 13,
+    "Honesty-Humility": 2.93125,
+    "Extraversion": 3.075,
+    "Agreeableness": 3.39375,
+    "Conscientiousness": 3.64375
+  }
+}
