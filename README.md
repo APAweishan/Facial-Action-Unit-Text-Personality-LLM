@@ -507,29 +507,8 @@ Several scripts contain Linux absolute default paths like `/root/autodl-tmp/...`
 - `train.py` uses 4-bit loading (`BitsAndBytesConfig(load_in_4bit=True)`) and `torch.amp` with `"cuda"`. A CUDA-capable environment is effectively required.
 - `dataset_module.py` relies on `tokenizer.apply_chat_template(...)`; your base model/tokenizer should provide a chat template (or you will need to adapt formatting).
 
-### 7.6 Potential reproducibility pitfalls (reviewer checklist)
-
-- Ensure **filename IDs** are consistent across:
-  - `annotation_*.json` keys
-  - transcripts `<id>.txt`
-  - videos `<id>.mp4`
-  - OpenFace AU CSV `<id>.csv`
-- Ensure OpenFace CSV contains expected columns (`frame` and `AUxx_r` names).
-- `division_tool.py` moves files (non-idempotent). Run on a copy if you need to preserve the flat layout.
-- `statistics.py` is non-CLI and uses `plt.show()`; headless servers need a non-interactive backend.
-
 ---
 
 ## 8. Citation
 
-If you use this repository in your research, please cite:
-
-```bibtex
-@article{YOUR_PAPER_KEY,
-  title   = {TITLE},
-  author  = {AUTHOR LIST},
-  journal = {IEEE Transactions on Affective Computing},
-  year    = {YEAR},
-  doi     = {DOI}
-}
-```
+If you use this repository in your research, please cite this work. The citation will be updated upon publication of the paper.
