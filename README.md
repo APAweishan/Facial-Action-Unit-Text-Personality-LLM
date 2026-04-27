@@ -254,7 +254,7 @@ Notes (code behavior):
 
 ---
 
-### Step 4: AU selection (simulated annealing; optional tool)
+### Step 4: AU selection (simulated annealing)
 
 **Status in this repo**
 - The “selected AU lists” used in description prompts are currently **hard-coded** in `description_core.AU_SUBSETS`.
